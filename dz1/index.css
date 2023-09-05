@@ -1,0 +1,28 @@
+.par1 {
+    background: blue;
+    font-size: 16pt;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding-bottom: 100px;
+}
+.par2 {
+    background: purple;
+    font-size: 24pt;
+    font-weight: bold;
+    margin-bottom: 60px;
+}
+.par3 {
+    background: rgb(179, 250, 255);
+    font-size: 24pt;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding-bottom: 100px;
+    text-align: center;
+    text-shadow: 5px 1px rgba(0, 255, 0, 0.864);
+}
+.button {
+    background: rgb(146, 26, 66);
+    color: rgb(153, 255, 0);
+    font-size: 24pt;
+    font-weight: 300;
+    margin-bottom: 60px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
